@@ -7,6 +7,7 @@ public class Example {
 		if (name.equals("Thiarlles")) {
 			String bestFriend;
 			String vc = "Testing in the world";
+			String mssss;
 
 		}
 	}
