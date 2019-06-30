@@ -7,7 +7,6 @@ public class Example {
 			String bestFriend;
 			String vc = "Testing in the world";
 			String x;
-
 		}
 	}
 
