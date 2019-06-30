@@ -3,7 +3,7 @@ package sample;
 public class Example {
 
 	public static void method(String name) {
-		if (name.equals("Greice")) {
+		if (name.equals("Thiarlles")) {
 			
 		}
 			
